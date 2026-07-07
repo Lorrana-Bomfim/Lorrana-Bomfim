@@ -12,4 +12,4 @@ Estudante do 3º semestre de Análise e Desenvolvimento de Sistemas (ADS), focad
 ---
 ### 📬 Vamos nos conectar?
 - [LinkedIn](http://linkedin.com/in/lorranabomfim)
-- [E-mail](mailto:lorranasantosbomfim@hotmail.com)
+
