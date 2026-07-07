@@ -4,7 +4,8 @@ Estudante do 3º semestre de Análise e Desenvolvimento de Sistemas (ADS), focad
 
 ### 🛠️ Tecnologias e Ferramentas
 - **Linguagem Principal:** JavaScript 
-- **Próximo Passo (Estudando):** Node.js 
+- **Próximo Passo (Estudando):** Node.js
+- **Banco de dados:** SQL 
 - **Web Fundamental:** HTML5 & CSS3
 - **Ambiente de Trabalho:** VS Code, Git e GitHub
 
