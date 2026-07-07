@@ -1,16 +1,14 @@
-## Hi there 👋
+# Olá, eu sou Lorrana Bomfim 👋
 
-<!--
-**Lorrana-Bomfim/Lorrana-Bomfim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estudante do 3º semestre de Análise e Desenvolvimento de Sistemas (ADS), focada em **Desenvolvimento Back-end**. Atualmente estou aprofundando meus conhecimentos no ecossistema **JavaScript** e iniciando os estudos em **Node.js** para construção de APIs estáveis e escaláveis.
 
-Here are some ideas to get you started:
+### 🛠️ Tecnologias e Ferramentas
+- **Linguagem Principal:** JavaScript 
+- **Próximo Passo (Estudando):** Node.js 
+- **Web Fundamental:** HTML5 & CSS3
+- **Ambiente de Trabalho:** VS Code, Git e GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+### 📬 Vamos nos conectar?
+- [LinkedIn](www.linkedin.com/in/lorranabomfim)
+- [E-mail](lorranasantosbomfim@hotmail.com)
