@@ -5,7 +5,6 @@ Estudante de Análise e Desenvolvimento de Sistemas (ADS), focada em **Desenvolv
 ### 🛠️ Tecnologias e Ferramentas
 - **Linguagem Principal:** JavaScript 
 - **Banco de dados:** SQL 
-- **Web Fundamental:** HTML5 & CSS3
 - **Ambiente de Trabalho:** VS Code, Git 
 
 ---
