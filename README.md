@@ -1,11 +1,11 @@
 # Olá, eu sou Lorrana Bomfim 👋
 
-Estudante de Análise e Desenvolvimento de Sistemas (ADS), focada em **Desenvolvimento Back-end**. Atualmente estou aprofundando meus conhecimentos no ecossistema **JavaScript** e iniciando os estudos em **Node.js**.
+Estudante de Análise e Desenvolvimento de Sistemas (ADS), no terceiro semestre.
 
 ### 🛠️ Tecnologias e Ferramentas
 - **Linguagem Principal:** JavaScript 
 - **Banco de dados:** SQL 
-- **Ambiente de Trabalho:** VS Code, Git 
+- **Ambiente de Trabalho:** VS Code, Git e GitHub
 
 ---
 ### 📬 Vamos nos conectar?
