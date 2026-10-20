@@ -3,7 +3,7 @@
 Estudante de Análise e Desenvolvimento de Sistemas (ADS), no terceiro semestre.
 
 ### 🛠️ Tecnologias e Ferramentas
-- **Linguagem Principal:** JavaScript 
+- **Linguagem:** Python, JavaScript 
 - **Banco de dados:** SQL 
 - **Ambiente de Trabalho:** VS Code, Git e GitHub
 
